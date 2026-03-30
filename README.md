@@ -1,3 +1,5 @@
+#Fundamentals in AI & ML
+
 # HOSTEL_MESS_FEE_CALCULATOR
 The Hostel Mess Fee calculator is a comprehensive and user friendly Python Program designed to automate and simplify the calculation of monthly mess charges for hostel students, based on Veg, Non-Veg and Jain options, add-on services and performance based discounts. It provides clear breakdown of fees, making billing transparent &amp; accurate.In many educational institutions, mess fee structure vary based on food preferences, additional services, and student performance-based concessions.
 The Project aims to address this real-world requirement by providing a smart, interactive, and well organized system that computes the final payable amount with accuracy and clarity.
